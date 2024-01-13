@@ -6,7 +6,7 @@ A aplicação se chama Central de Atendimento ao Cliente TAT - [**CAC TAT**](htt
 ## Funcionalidades da aplicação
 
 A aplicação CAC TAT é um formulário para simular o envio de mensagens à uma central de atendimento ao cliente.  
-
+ 
 ### Campos obrigatórios
 
 Os seguintes campos são obrigatórios, por padrão:
